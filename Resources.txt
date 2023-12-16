@@ -1,0 +1,57 @@
+Resources 
+
+** Network **
+# Basics of Networking - https://www.softwaretestinghelp.com/computer-networking-basics/
+# Computer Network - https://www.guru99.com/data-communication-computer-network-tutorial.html
+# Network Notes - https://www.computernetworkingnotes.com/networking-tutorials/
+
+** Linux ** 
+
+# Linux - https://linuxjourney.com/
+# Kali Linux - https://www.kali.org/
+# Shell and Other Programming language - https://www.learnshell.org
+# Debian 11 Handbook - https://www.debian.org/doc/manuals/debian-handbook/index.en.html
+# Arch wiki - https://wiki.archlinux.org/
+# Debian wiki - https://wiki.debian.org/
+
+** Reverse Enigneering ** 
+
+# Reverse Enginnering - https://github.com/ashemery/exploitation-course
+# Binary Exploitation - https://github.com/RPISEC/MBE
+# Exploitation Practice - https://exploit.education/
+# PortSwigger academy - https://portswigger.net/web-security
+# OWASP webgoat - https://owasp.org/www-project-webgoat/
+# OWASP Secure Coding DOJO - https://owasp.org/www-project-secure-coding-dojo/
+# Reverse Engineering CTF - https://guyinatuxedo.github.io/
+
+
+# Priv Esc Cheatsheet - https://0xsp.com/offensive/privilege-escalation-cheatsheet/
+
+** InfoSec Training ** 
+
+# Opensource Security Training - https://opensecuritytraining.info/Training.html
+# Pentest-standard - http://www.pentest-standard.org/index.php/Main_Page
+# Computer Security Student - http://www.computersecuritystudent.com/
+# OpenBooks - https://mirror.parrot.sh/parrot/misc/openbooks/
+# Free Computer Books - https://freecomputerbooks.com/
+
+** Exploit databases **
+
+# WP database - https://wpscan.com/wordpresses/
+# Patchstack Vulnerability DB - https://patchstack.com/database/
+# NVD - https://nvd.nist.gov/
+# CVE Details - https://www.cvedetails.com/
+# PocketStrom - https://packetstormsecurity.com/ 
+# Vulndb - https://vuldb.com/ 
+# CXsec DB - https://cxsecurity.com/exploit/
+# Vulnerability lab - https://www.vulnerability-lab.com/
+
+
+** Search Engine ** 
+
+# shodan.io - https://www.shodan.io/
+# Censys - https://search.censys.io/
+# greynoise - https://viz.greynoise.io/
+# zoomeye - https://www.zoomeye.org/
+# hunter io - https://hunter.io/ 
+# wigle - https://wigle.net/
