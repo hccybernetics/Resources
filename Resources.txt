@@ -47,7 +47,6 @@ Resources
 # CXsec DB - https://cxsecurity.com/exploit/
 # Vulnerability lab - https://www.vulnerability-lab.com/
 
-
 ** Search Engine ** 
 
 # shodan.io - https://www.shodan.io/
@@ -56,3 +55,17 @@ Resources
 # zoomeye - https://www.zoomeye.org/
 # hunter io - https://hunter.io/ 
 # wigle - https://wigle.net/
+
+** Privacy **
+
+# eff - https://www.eff.org/
+# survilancd - https://ssd.eff.org/
+# Self Defence Email - https://emailselfdefense.fsf.org/en/
+# GNUPG - https://gnupg.org/documentation/howtos.html
+# TOR Project - https://www.torproject.org/
+# DeepL Translator - https://www.deepl.com/en/translator
+# Quad9 - https://quad9.net/
+# PrivacyTools - https://www.privacytools.io/
+# onion Links - http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
+# HiddenWiki - https://thehiddenwiki.org/
+: Note : I took this links from Parrot OS Browser Bookmarks
