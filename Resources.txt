@@ -37,6 +37,7 @@ Resources
 
 ** Exploit databases **
 
+# Exploitdb - https://www.exploit-db.com/
 # WP database - https://wpscan.com/wordpresses/
 # Patchstack Vulnerability DB - https://patchstack.com/database/
 # NVD - https://nvd.nist.gov/
