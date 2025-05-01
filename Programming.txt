@@ -1,0 +1,10 @@
+Programming :
+Python : https://www.learnpython.org/
+Go : https://go.dev/learn/
+C : https://www.learn-c.org/
+C++ : https://www.learn-cpp.org/
+Java : https://dev.java/learn/
+PHP : https://www.learn-php.org/
+Nodejs : https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+Linux Bash : https://linux.die.net/
+

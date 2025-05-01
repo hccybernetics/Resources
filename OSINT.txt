@@ -1,0 +1,27 @@
+Air & Space Tracking
+
+Ads-Exchange : https://globe.adsbexchange.com/
+Live Flight Track : https://www.flightaware.com/live/
+AirNav  Radar : https://www.airnavradar.com/
+Flight Tracker : https://www.airportia.com/
+SondeHub : https://amateur.sondehub.org
+Satellite map : https://satellitemap.space/
+Satellite X Planet : https://geoxc-apps.bd.esri.com/space/satellite-explorer/
+Inthesky : https://in-the-sky.org/satmap_worldmap.php
+
+Land & Sea Tracking 
+
+OpenRailway : https://www.openrailwaymap.org/
+Live Train Tracker : https://mobility.portal.geops.io
+Train times : https://www.opentraintimes.com/maps
+Satellite : https://satellites.pro/
+
+Live Cam
+
+insecam : http://www.insecam.org/
+World Web Cam : https://world-webcams.nsspot.net/
+Earth Cam : https://www.earthcam.com/
+WOrldCam : https://worldcam.eu/
+Live Webcam : http://www.opentopia.com/hiddencam.php
+iceland live : https://livefromiceland.is/
+
